@@ -1,5 +1,7 @@
 import React from "react";
+import { ProCard } from "@ant-design/pro-components"
 
+import AttributeGraph from "@/pages/Layout/Result/ResultIntelligence/util/AttributeGraph";
 
 const BehaviorCodingPage = () => {
     const data = {
