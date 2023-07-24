@@ -16,7 +16,7 @@ const PsychologicalTablePage = () => {
         >
             <ProCard
                 title="代码作者全场景心理特征融合算法"
-                subTitle="社会属性达12种，多重空间达10种，社交跟踪范围达10层"
+                subTitle="社会属性达10种，多重空间达10种，社交跟踪范围达10层"
             >
                 <Table
                     dataSource={resultStore.outlineTableData.psychological.data}

@@ -1,10 +1,4 @@
-import React from "react";
 
+import FeatureSocialPage from '@/pages/Layout/Result/ResultIntelligence/feature/social';
 
-const PsychologicalSocialPage = () => {
-    return (
-        <></>
-    )
-}
-
-export default PsychologicalSocialPage
+export default FeatureSocialPage

@@ -13,6 +13,11 @@ const PsychologicalMultiSpacesPage = () => {
                 id: "github.com/arinerron",
                 label: "github.com/arinerron",
                 socialAttributes: [
+                    {
+                        key: "地址",
+                        value: "https://twitter.com/arinerron",
+                        url: "https://twitter.com/arinerron"
+                    }
                 ],
                 // 为分析节点单独设置颜色,覆盖 default 配置
                 style: {
@@ -31,14 +36,18 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "真实姓名",
                         value: "Aaron Esau",
+                        url: "https://aaronesau.com/"
+
                     },
                     {
                         key: "推特",
                         value: "https://twitter.com/arinerron",
+                        url: "https://twitter.com/arinerron"
                     },
                     {
                         key: "匿名性",
                         value: "低",
+                        url: "https://twitter.com/arinerron/status/1612206626207076352"
                     },
                     {
                         key: "",
@@ -53,14 +62,17 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "社交面貌",
                         value: "乐观",
+                        url: "https://twitter.com/arinerron/status/1642778873585872896"
                     },
                     {
                         key: "领域",
                         value: "计算机",
+                        url: "https://twitter.com/arinerron/status/1448107828846026754"
                     },
                     {
                         key: "特点",
                         value: "守序、传统",
+                        url: "https://twitter.com/arinerron/status/1626659413519134720"
                     },
                     {
                         key: "",
@@ -75,14 +87,17 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "每月发推",
                         value: "7.72",
+                        url: "https://twitter.com/arinerron"
                     },
                     {
                         key: "与好友互动数",
                         value: "2.74",
+                        url: "https://twitter.com/arinerron"
                     },
                     {
                         key: "活跃程度",
                         value: "相对活跃",
+                        url: "https://twitter.com/arinerron"
                     },
                 ]
             },
@@ -110,6 +125,11 @@ const PsychologicalMultiSpacesPage = () => {
                 id: "github.com/acedrew",
                 label: "github.com/acedrew",
                 socialAttributes: [
+                    {
+                        key: "地址",
+                        value: "https://github.com/acedrew",
+                        url: "https://github.com/acedrew"
+                    }
                 ],
                 // 为分析节点单独设置颜色,覆盖 default 配置
                 style: {
@@ -125,6 +145,11 @@ const PsychologicalMultiSpacesPage = () => {
                 id: "github.com/Adriantega12",
                 label: "github.com/Adriantega12",
                 socialAttributes: [
+                    {
+                        key: "地址",
+                        value: "https://github.com/Adriantega12",
+                        url: "https://github.com/Adriantega12"
+                    }
                 ],
                 style: {
                     fill: "#32E0C4"
@@ -146,6 +171,7 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "来源",
                         value: "mastodon社交平台",
+                        url: "https://mastodon.social/@acedrew"
                     },
                 ]
             },
@@ -160,6 +186,7 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "来源",
                         value: "推特",
+                        url: "https://twitter.com/Adriantega12/media"
                     },
                 ]
             },
@@ -184,6 +211,11 @@ const PsychologicalMultiSpacesPage = () => {
                         key: "熟练程度",
                         value: "C++、python老手，javascript新手",
                     },
+                    {
+                        key: "来源",
+                        value: "github",
+                        url: "https://github.com/acedrew"
+                    }
                 ]
             },
 
@@ -210,6 +242,11 @@ const PsychologicalMultiSpacesPage = () => {
                 id: "github.com/petermartens98",
                 label: "github.com/petermartens98",
                 socialAttributes: [
+                    {
+                        key: "地址",
+                        value: "https://github.com/petermartens98",
+                        url:"https://github.com/petermartens98"
+                    }
                 ],
                 // 为分析节点单独设置颜色,覆盖 default 配置
                 style: {
@@ -228,6 +265,7 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "代码领域",
                         value: "机器学习、前端开发",
+                        url: "https://github.com/petermartens98"
                     },
 
                 ],
@@ -239,6 +277,7 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "提交日期",
                         value: "工作日",
+                        url: "https://github.com/petermartens98/GPT4-LangChain-Agents-Research-Web-App/commits/main"
                     },
                 ]
             },
@@ -249,6 +288,7 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "可能职业",
                         value: "数据分析师",
+                        url: "https://github.com/petermartens98"
                     },
                 ]
             },
@@ -298,6 +338,12 @@ const PsychologicalMultiSpacesPage = () => {
                         key: "危险等级",
                         value: "中等",
                     },
+                    {
+                        key: "来源",
+                        value: "个人主页",
+                        url: "https://me.kiui.moe/"
+
+                    }
 
                 ],
             },
@@ -308,11 +354,17 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "泄露信息",
                         value: "社交账号、个人照片",
+                        url: "https://twitter.com/gh0st_r1d3r_0x9"
                     },
                     {
                         key: "危险等级",
                         value: "高",
                     },
+                    {
+                        key: "来源",
+                        value: "个人主页",
+                        url: "https://divyanshu-mehta.gitbook.io/researchs/"
+                    }
                 ]
             },
             {
@@ -327,6 +379,21 @@ const PsychologicalMultiSpacesPage = () => {
                         key: "危险等级",
                         value: "超高",
                     },
+                    {
+                        key: "来源1",
+                        value: "推特",
+                        url: "https://twitter.com/sachinl0har"
+                    },
+                    {
+                        key: "来源2",
+                        value: "领英",
+                        url: "https://www.linkedin.com/in/sachinl0har/"
+                    },
+                    {
+                        key: "来源3",
+                        value: "个人主页",
+                        url: "https://www.sachinlohar.com/#about"
+                    }
                 ]
             },
 
@@ -352,6 +419,10 @@ const PsychologicalMultiSpacesPage = () => {
                 id: "github.com/JehanKandy",
                 label: "github.com/JehanKandy",
                 socialAttributes: [
+                    {
+                        key: "地址",
+                        value: "https://github.com/JehanKandy",
+                    }
                 ],
                 // 为分析节点单独设置颜色,覆盖 default 配置
                 style: {
@@ -370,10 +441,12 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "上午6：00~9：00",
                         value: "76%",
+                        url: "https://github.com/JehanKandy"
                     },
                     {
                         key: "其他",
                         value: "24%",
+                        url: "https://github.com/JehanKandy"
                     },
 
                 ],
@@ -385,10 +458,12 @@ const PsychologicalMultiSpacesPage = () => {
                     {
                         key: "学习时间",
                         value: "白天",
+                        url: "https://github.com/JehanKandy"
                     },
                     {
                         key: "工作时间",
                         value: "白天",
+                        url: "https://github.com/JehanKandy"
                     },
                 ]
             },
